@@ -1,0 +1,6 @@
+pip install Pillow
+pip install openCV
+pip install numpy
+pip install Dlib
+pip install Flask
+pip install TensorFlow
